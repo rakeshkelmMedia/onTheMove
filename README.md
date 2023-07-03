@@ -6,7 +6,7 @@ Visuals - from, Accounts
 
 https://visuals.planet.militia
 
-Forward Visuals - from, Forward
+Forward visuals - from, Forward
 
 https://forwardvisuals.planet.militia
 
