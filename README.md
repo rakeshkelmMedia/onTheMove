@@ -10,8 +10,8 @@ Forward visuals - from, Forward
 
 https://forwardvisuals.planet.militia
 
-Build and Operationalize a Planet. 
+Build and operationalize a planet. 
 
-Expand and Update Independent Interest.
+Expand and update Independent interest.
 
 
